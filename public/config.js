@@ -22,7 +22,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ENABLE_CAMPAIGNS": "true",
   "VITE_TELEGRAM_URL": "https://t.me/+L3BaZTWt1041NjAx",
   "VITE_DISCORD_URL": "",
-  "VITE_TWITTER_URL": "https://x.com/PerpPrime",
+  "VITE_TWITTER_URL": "https://x.com/PerpPrimeXYZ",
   "VITE_SEO_SITE_NAME": "Perp Prime",
   "VITE_SEO_SITE_DESCRIPTION": "Perp Prime is a next-gen omnichain decentralized perpetuals exchange, delivering powerful performance with simple, user-first design. Trade perpetual futures across blockchains effortlessly — with speed, transparency, and control.",
   "VITE_SEO_SITE_URL": "https://perpprime.xyz",
